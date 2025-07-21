@@ -17,4 +17,4 @@ I specialize in DevOps, Python programming, and I'm currently studying informati
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/j3ywin.png" alt="Your Image Badge" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyw1n)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyw1n&layout=compact)
