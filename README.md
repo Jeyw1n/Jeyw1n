@@ -13,3 +13,7 @@ I specialize in DevOps, Python programming, and I'm currently studying informati
 - 🍏 Hobby: Game development
 - 💚 Linux — the best operating system
 
+---
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/j3ywin.png" alt="Your Image Badge" />
+
