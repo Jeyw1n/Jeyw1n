@@ -6,9 +6,9 @@
 I specialize in DevOps, Python programming, and I'm currently studying information security.
 
 <img width="20%" align="right" src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif"/>
-- 🥒 Developing Telegram bots
-- 🫑 Creating APIs
-- 🧃 Scraping and automation
-- 🍏 Hobby: Game development
-- 💚 Linux — the best operating system
+  - 🥒 Developing Telegram bots
+  - 🫑 Creating APIs
+  - 🧃 Scraping and automation
+  - 🍏 Hobby: Game development
+  - 💚 Linux — the best operating system
 
